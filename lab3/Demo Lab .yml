@@ -1,0 +1,20 @@
+%YAML 1.1
+---
+# demo_lab_3.product
+-
+  ProductID: 1
+  ProductName: "asus a111"
+  CateID: 1
+  Price: 100000
+  Quantity: 9
+  Description: "mô tả"
+  Picture: "google.com"
+-
+  ProductID: 2
+  ProductName: "Galaxy A10"
+  CateID: 1
+  Price: 2000000
+  Quantity: 10
+  Description: "là sản phẩm tiên tiến"
+  Picture: "google.com"
+...
