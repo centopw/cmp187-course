@@ -1,6 +1,6 @@
 <?php
-require_once ("entities/product.class.php");
-require_once ('entities/category.class.php');
+require_once ("product.class.php");
+require_once ('category.class.php');
 if (isset ($_POST["btnsubmit"])) {
     //Get value from form
     $productName = $_POST["txtname"];
